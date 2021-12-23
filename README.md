@@ -9,7 +9,7 @@
 - 🔭 I’m currently not hired  
   
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React.  
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React
   
 
 - ❓ Ask me any article written in English. I'm skilled at reading and writing in English 🙂  
