@@ -3,20 +3,27 @@
 </div>  
   
 
-### <div align="center">I'm Ahra Cho, a passionate aspiring front-end developer 👩‍💻</div>
+### <div align="center">I'm Ahra Cho, a passionate aspiring front-end developer 👩‍💻</div>  
+  
 
 - 🔭 I’m currently not hired  
+  
 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React.  
   
+
 - ❓ Ask me any article written in English. I'm skilled at reading and writing in English 🙂  
   
+
 - ⚡ Fun fact: I like jokebear a lot  
   
+
 <br/>  
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
+
 
 
 ### Frontend  
@@ -58,14 +65,15 @@
 
 
 
-<br/>  
-
-
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=choar816&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choar816&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
-  
+
+
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/choar816" target="_blank">
@@ -75,22 +83,22 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
+  
 
-****
+<br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
+  
 
 <br/>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
+<img src="https://komarev.com/ghpvc/?username=choar816&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+
 <br />
 
 ----
