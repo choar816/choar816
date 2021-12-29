@@ -2,7 +2,7 @@
 
 
 ### <div align="center">I'm Ahra Cho, a passionate aspiring front-end developer 👩‍💻</div>  
-  
+<br>
 
 - 🔭 I’m currently not hired  
   
