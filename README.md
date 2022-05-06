@@ -11,7 +11,7 @@ Hi 🙂 I'm good at
 
 ---
 
-[![Resume](https://img.shields.io/badge/resume-black?logo=notion&logoColor=white)](https://www.notion.so/a2977d58b75c4d7f87c286dc0e6aaf3f)
+[![Resume](https://img.shields.io/badge/resume-black?logo=notion&logoColor=white)](https://choar816.github.io/intro-choar/)
 [![Blog](https://img.shields.io/badge/blog-black?logo=github)](https://choar816.tistory.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](http://linkedin.com/in/ahra-cho-209b6b187)
 
