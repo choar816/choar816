@@ -7,7 +7,7 @@ Hi 🙂 I'm good at
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B)
-![python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white)
+[![solved.ac](https://img.shields.io/badge/solved.ac-G5-yellow)](https://solved.ac/profile/choar816)
 
 ---
 
