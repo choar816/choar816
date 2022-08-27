@@ -8,12 +8,14 @@ Hi 🙂 I'm studying
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux)
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B)
-[![solved.ac](https://img.shields.io/badge/solved.ac-G4-yellow)](https://www.acmicpc.net/user/choar816)
+
+
+[![Solved.ac profile](http://mazassumnida.wtf/api/generate_badge?boj=choar816)](https://solved.ac/choar816)
 
 ---
 
-[![Resume](https://img.shields.io/badge/resume-black?logo=notion&logoColor=white)](https://choar816.github.io/intro-choar/)
-[![Blog](https://img.shields.io/badge/blog-black?logo=tistory)](https://choar816.tistory.com/)
+[![Resume](https://img.shields.io/badge/Resume-black?logo=notion&logoColor=white)](https://choar816.github.io/intro-choar/)
+[![Blog](https://img.shields.io/badge/Blog-black?logo=tistory)](https://choar816.tistory.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](http://linkedin.com/in/ahra-cho-209b6b187)
 
 [![wakatime](https://wakatime.com/badge/user/2bffbbf3-9075-4ec1-99bf-4a20a426eac7.svg)](https://wakatime.com/@choar816)
