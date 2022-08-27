@@ -8,9 +8,8 @@ Hi 🙂 I'm studying
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux)
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B)
-
-
-[![Solved.ac profile](http://mazassumnida.wtf/api/generate_badge?boj=choar816)](https://solved.ac/choar816)
+[![Solved.ac
+Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=choar816)](https://solved.ac/choar816)
 
 ---
 
