@@ -13,7 +13,7 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=choar816)](https://
 
 ---
 
-[![Resume (Notion)](https://img.shields.io/badge/Resume-black?logo=notion&logoColor=white)](https://wool-troodon-1ff.notion.site/a2977d58b75c4d7f87c286dc0e6aaf3f)
+[![Resume (Notion)](https://img.shields.io/badge/Resume_(Notion)-black?logo=notion&logoColor=white)](https://wool-troodon-1ff.notion.site/a2977d58b75c4d7f87c286dc0e6aaf3f)
 [![Blog](https://img.shields.io/badge/Blog-black?logo=tistory)](https://choar816.tistory.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](http://linkedin.com/in/ahra-cho-209b6b187)
 
